@@ -1,0 +1,46 @@
+[
+  {
+    "id": "pay-001",
+    "userName": "John Doe",
+    "packageName": "Premium Package",
+    "amount": "99.99",
+    "status": "rejected",
+    "utr": "UTR123456789012345",
+    "screenshot": "https://via.placeholder.com/800x600/667eea/ffffff?text=Payment+Screenshot+1",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2025-12-06T15:37:14.762Z"
+  },
+  {
+    "id": "pay-002",
+    "userName": "Jane Smith",
+    "packageName": "Basic Package",
+    "amount": "49.99",
+    "status": "approved",
+    "utr": "UTR987654321098765",
+    "screenshot": "https://via.placeholder.com/800x600/10b981/ffffff?text=Payment+Screenshot+2",
+    "createdAt": "2024-01-14T14:20:00.000Z",
+    "updatedAt": "2024-01-14T14:25:00.000Z"
+  },
+  {
+    "id": "pay-003",
+    "userName": "Bob Johnson",
+    "packageName": "Enterprise Package",
+    "amount": "199.99",
+    "status": "rejected",
+    "utr": "UTR456789012345678",
+    "screenshot": "https://via.placeholder.com/800x600/f59e0b/ffffff?text=Payment+Screenshot+3",
+    "createdAt": "2024-01-16T09:15:00.000Z",
+    "updatedAt": "2025-12-06T16:06:25.754Z"
+  },
+  {
+    "id": "pay-004",
+    "userName": "Alice Williams",
+    "packageName": "Premium Package",
+    "amount": "99.99",
+    "status": "rejected",
+    "utr": "UTR789012345678901",
+    "screenshot": "https://via.placeholder.com/800x600/ef4444/ffffff?text=Payment+Screenshot+4",
+    "createdAt": "2024-01-13T16:45:00.000Z",
+    "updatedAt": "2024-01-13T17:00:00.000Z"
+  }
+]
